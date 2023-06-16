@@ -1,12 +1,12 @@
 [![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)]
 <h1 align="center">Hi 👋, I'm Abdelilah Bouchikhi</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate student fullstack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelilah-99&label=Profile%20views&color=0e75b6&style=flat" alt="abdelilah-99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelilah99z" target="blank"><img src="https://img.shields.io/twitter/follow/abdelilah99z?logo=twitter&style=for-the-badge" alt="abdelilah99z" /></a> </p>
 
-- 🌱 I’m currently learning **A full stack web development**
+- 🌱 I’m currently learning **A full stack web development at ALX**
 
 - 📫 How to reach me **bouchikhiabdelilah0@gmail.com**
 
