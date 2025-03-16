@@ -8,11 +8,10 @@
 
 - 🎓 Currently studying at **1337 & Zone01** (part of the 42 Network)
 - 💻 Proficient in **C** and **Go**
-- 🌱 Learning **C++**, **JavaScript**, and **Next.js**
+- 🌱 Learning **C++**, **JavaScript**, and **Next.js** & **java**
 - 🐍 Experience with **Python** projects
 - 🌍 Language skills: **English (B2)** and **French (B2)**
 - 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
