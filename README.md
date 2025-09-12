@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdelilah Bouchikhi</h1>
-<h3 align="center">A passionate fullstack developer and student at 1337 & Zone01</h3>
+<h3 align="center">A passionate fullstack developer and student at Zone01</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelilah-99&label=Profile%20views&color=0e75b6&style=flat" alt="abdelilah-99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelilah99z" target="blank"><img src="https://img.shields.io/twitter/follow/abdelilah99z?logo=twitter&style=for-the-badge" alt="abdelilah99z" /></a> </p>
 
-- 🎓 Currently studying at **1337 & Zone01** (part of the 42 Network)
-- 💻 Proficient in **C** and **Go**
-- 🌱 Learning **java**, **JavaScript**, and **Next.js**
-- 🦀 Learning **Rust** for systems programming
-- 🌍 Language skills: **English (B2)** and **French (B2)**
-- 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**
+- 🎓 Currently studying at **Zone01** (part of the 42 Network)  
+- 💻 Proficient in **C** and **Go**  
+- 🌱 Learning **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
+- 🦀 Learning **Rust** for systems programming  
+- 🌍 Language skills: **English (B2)** and **French (B2)**  
+- 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +25,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
-</a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -42,8 +42,7 @@
 
 <h3 align="left">Education:</h3>
 <p align="left">
-🚀 <strong>1337 School</strong> - Intensive peer-to-peer learning program focused on software engineering<br>
-💻 <strong>Zone01</strong> - Project-based coding education with emphasis on practical skills
+💻 <strong>Zone01</strong> - Project-based coding education with emphasis on practical skills  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelilah-99&show_icons=true&locale=en&layout=compact" alt="abdelilah-99" /></p>
