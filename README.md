@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdelilah99z" target="blank"><img src="https://img.shields.io/twitter/follow/abdelilah99z?logo=twitter&style=for-the-badge" alt="abdelilah99z" /></a> </p>
 
-- 🎓 Currently studying at **Zone01** (part of the 42 Network)  
+- 🎓 Currently studying at **Zone01**
 - 💻 Proficient in **C** and **Go**  
 - 🌱 Learning **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
 - 🦀 Learning **Rust** for systems programming  
