@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/abdelilah99z" target="blank"><img src="https://img.shields.io/twitter/follow/abdelilah99z?logo=twitter&style=for-the-badge" alt="abdelilah99z" /></a> </p>
 
 - 🎓 Currently studying at **Zone01**
-- 💻 Proficient in **C** and **Go**  
+- 💻 Proficient in **C** , **Go** and **js**
 - 🌱 Learning **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
 - 🦀 Learning **Rust** for systems programming  
 - 🌍 Language skills: **English (B2)** and **French (B2)**  
