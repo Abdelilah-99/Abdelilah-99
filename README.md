@@ -12,13 +12,13 @@
 - 🌍 Language skills: **English (B2)** and **French (B2)**  
 - 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**
 
-- 🔥 About Me (Short & Strong)
+🔥 About Me (Short & Strong)
 - 🧠 Strong focus on **systems programming, backend engineering, and performance**
 - ⚙️ Enjoy building things **from scratch** (network servers, parsers, CLIs)
 - 🧪 Interested in **low-level concepts**: memory, concurrency, I/O, protocols
 - 🚀 Goal: become a **high-level backend / systems engineer**
 
-- 🛠️ What I’m Currently Working On
+🛠️ What I’m Currently Working On
 - 🔐 Authentication systems (JWT, OAuth, sessions)
 - 🌐 High-performance HTTP servers (non-blocking I/O, selectors)
 - 🧵 Concurrency & networking in **Go**
