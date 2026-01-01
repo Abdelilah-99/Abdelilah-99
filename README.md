@@ -18,7 +18,7 @@
 - 🧪 Interested in **low-level concepts**: memory, concurrency, I/O, protocols
 - 🚀 Goal: become a **high-level backend / systems engineer**
 
-🛠️ What I’m Currently Working On
+- 🛠️ What I’m Currently Working On
 - 🔐 Authentication systems (JWT, OAuth, sessions)
 - 🌐 High-performance HTTP servers (non-blocking I/O, selectors)
 - 🧵 Concurrency & networking in **Go**
