@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelilah Bouchikhi</h1>
-<h3 align="center">A passionate fullstack developer and student at Zone01</h3>
+<h3 align="center">A passionate fullstack developer and Talent at Zone01</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelilah-99&label=Profile%20views&color=0e75b6&style=flat" alt="abdelilah-99" /> </p>
 
@@ -10,7 +10,35 @@
 - 🌱 Learning **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
 - 🦀 Learning **Rust** for systems programming  
 - 🌍 Language skills: **English (B2)** and **French (B2)**  
-- 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**  
+- 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**
+
+- 🔥 About Me (Short & Strong)
+- 🧠 Strong focus on **systems programming, backend engineering, and performance**
+- ⚙️ Enjoy building things **from scratch** (network servers, parsers, CLIs)
+- 🧪 Interested in **low-level concepts**: memory, concurrency, I/O, protocols
+- 🚀 Goal: become a **high-level backend / systems engineer**
+
+🛠️ What I’m Currently Working On
+- 🔐 Authentication systems (JWT, OAuth, sessions)
+- 🌐 High-performance HTTP servers (non-blocking I/O, selectors)
+- 🧵 Concurrency & networking in **Go**
+- 📦 Clean architecture & backend best practices
+
+<h3 align="left">Featured Projects:</h3>
+
+- 🐜 **lem-in** – Graph algorithms & path optimization in Go  
+- 🌐 **HTTP Server from scratch** – Non-blocking I/O, selectors, parsing  
+- 💬 **NetCat Clone** – TCP client/server with group chat  
+- 🧵 **Forum Backend** – Authentication, sessions, database handling  
+
+👉 More projects on my GitHub repositories
+
+📚 Technical Interests
+- Operating Systems & Networking
+- Backend Architecture
+- Distributed Systems (learning phase)
+- Performance & Load Testing
+- Security fundamentals
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
