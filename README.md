@@ -70,11 +70,5 @@
 
 <h3 align="left">Education:</h3>
 <p align="left">
-💻 <strong>Zone01</strong> - Project-based coding education with emphasis on practical skills  
+💻 <strong>Zone01/1337</strong> - Project-based coding education with emphasis on practical skills  
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelilah-99&show_icons=true&locale=en&layout=compact" alt="abdelilah-99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelilah-99&show_icons=true&locale=en" alt="abdelilah-99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilah-99&" alt="abdelilah-99" /></p>
