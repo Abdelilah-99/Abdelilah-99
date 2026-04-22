@@ -7,8 +7,8 @@
 
 - 🎓 Currently studying at **Zone01**
 - 💻 Proficient in **C** , **Go** and **js**
-- 🌱 Learning **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
-- 🦀 Learning **Rust** for systems programming  
+- 🌱 **Java**, **JavaScript**, **Next.js**, **Spring Boot**, and **Angular**  
+- 🦀 **Rust** for systems programming  
 - 🌍 Language skills: **English (B2)** and **French (B2)**  
 - 📫 How to reach me: **bouchikhiabdelilah0@gmail.com**
 
