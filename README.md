@@ -1,25 +1,35 @@
-# Hi, I'm Abdelilah Bouchikhi
+# Abdelilah Bouchikhi
 
-Full-Stack Developer with a backend-focused profile.
+Full-Stack Developer with a strong backend focus (Java/Spring Boot + Angular).
 
-I build reliable web applications with a strong focus on Java/Spring Boot, Angular, API design, and system reliability.
+I design and build scalable web applications with clean architecture, secure APIs, and production-oriented engineering practices.
 
-## Tech Stack
-- Backend: Java, Spring Boot, Spring Security, REST APIs, Microservices
-- Frontend: Angular, JavaScript, TypeScript, HTML, CSS
-- Databases: PostgreSQL, MySQL
-- DevOps: Docker, Docker Compose, Linux, Nginx
+## What I Bring
+- Backend engineering with Java, Spring Boot, Spring Security, and REST APIs
+- Full-stack delivery with Angular and modern JavaScript/TypeScript
+- Database design and integration (PostgreSQL, MySQL)
+- Containerized workflows using Docker and Docker Compose
+- Security-first development (JWT, OAuth2, RBAC)
+
+## Core Stack
+- Languages: Java, JavaScript, TypeScript, Go, Rust
+- Backend: Spring Boot, Spring Security, Microservices
+- Frontend: Angular, HTML, CSS, RxJS
+- Data: PostgreSQL, MySQL
+- DevOps: Docker, Linux, Nginx
 - Tools: Git, Postman, Bash
 
-## Current Focus
-- Building scalable backend services
-- Secure authentication and authorization (JWT, OAuth2, RBAC)
-- Production-ready API architecture and integration
-
-## Featured Projects
+## Selected Projects
 - Marketplace - E-commerce Microservices Platform
+  - Event-driven architecture with independent business services
+  - Secure inter-service communication and API gateway routing
 - CoffeeHouse - Social Blogging Platform
+  - Authentication, role-based access, and content moderation workflows
 - Automated Culinary Content Platform (Freelance)
+  - Backend-driven content generation and third-party integrations
+
+## Open To
+Junior Full-Stack Developer roles and Backend Developer roles where I can contribute to real products and grow with a strong engineering team.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/abdelilah-bch
