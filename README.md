@@ -39,7 +39,7 @@ Docker • Docker Compose • Jenkins • Linux • GitHub Actions • Nginx •
 
 * Email: [bouchikhiabdelilah0@gmail.com](mailto:bouchikhiabdelilah0@gmail.com)
 * GitHub: https://github.com/Abdelilah-99
-* LinkedIn: https://linkedin.com/in/abdelilah-bouchikhi
+* LinkedIn: https://linkedin.com/in/abdelilah-bch
 
 ## ⚡ Interests
 
