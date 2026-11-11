@@ -1,34 +1,23 @@
-# Hi, I'm Abdelilah Bouchikhi 👋
+<div align="center">
 
-**Backend & DevOps engineer** · Java / Spring Boot · Rust · Oujda, Morocco 🇲🇦
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Abdelilah Bouchikhi — Backend & DevOps Engineer"/></picture>
 
-I build distributed backends and the pipelines that ship them: microservices with
-Spring Cloud and Kafka, CI/CD with Jenkins, SonarQube and Nexus, and low-level tools in Rust.
-Software engineering student at **Zone01 Oujda**, previously **ALX**.
+<a href="https://linkedin.com/in/abdelilah-bch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="Linkedin"/></picture></a>
+<a href="mailto:bouchikhiabdelilah0@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
+<a href="https://github.com/Abdelilah-99"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="Github"/></picture></a>
 
-## 🔭 Featured projects
+</div>
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**wisense**](https://github.com/Abdelilah-99/wisense) | Detects people moving around a home from WiFi signal fluctuations, using a laptop's WiFi card and optional ESP32 boards. Includes *homeguard*, a local home-security hub | Rust · nl80211 · ESP32 CSI |
-| [**market-place**](https://github.com/Abdelilah-99/market-place) | Event-driven e-commerce platform: API gateway with JWT and Redis rate limiting, Eureka discovery, Kafka-synced services, OpenSearch, Stripe Checkout | Spring Boot · Spring Cloud · Kafka · Angular · Docker |
-| [**nexus**](https://github.com/Abdelilah-99/nexus) | Artifact management for a microservices platform: Nexus as Maven/Docker proxy and registry, immutable releases, RBAC, Jenkins publishing on every push | Nexus · Maven · Docker · Jenkins · SonarQube |
-| [**Coffe_House**](https://github.com/Abdelilah-99/Coffe_House) | Full-stack blog platform: posts, comments, likes, follows, notifications and an admin panel | Spring Boot · Spring Security · PostgreSQL · Angular |
-| [**lets-play**](https://github.com/Abdelilah-99/lets-play) | Secure REST API with JWT auth, role-based access, input sanitization and HTTPS | Spring Boot · MongoDB · JWT |
-| [**Bomber-Man**](https://github.com/Abdelilah-99/Bomber-Man) | Real-time multiplayer Bomberman (2–4 players) at 60 FPS using only the DOM API, with WebSocket chat | JavaScript · WebSockets |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="01 — whoami: software engineering student at Zone01 Oujda, building Spring microservices and CI/CD pipelines"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img src="assets/system-map.svg" alt="02 — system map of projects: wisense, market-place, nexus, coffe_house, lets-play, socialnetwork, bomber-man, minishell"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="03 — twelve selected projects"/></picture>
 
-## 🛠️ Stack
+<div align="center">
 
-- **Languages:** Java · Rust · Go · C · TypeScript · JavaScript · SQL
-- **Backend:** Spring Boot · Spring Security · Spring Cloud · Kafka · Redis · REST
-- **Frontend:** Angular · Next.js
-- **Data:** PostgreSQL · MongoDB · OpenSearch
-- **DevOps:** Docker · Jenkins · GitHub Actions · SonarQube · Nexus · Nginx · Caddy · Linux
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah-99&bg_color=00000000&color=e6edf3&line=e6edf3&point=e6edf3&area_color=e6edf3&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah-99&bg_color=00000000&color=111111&line=111111&point=111111&area_color=111111&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
-## 🌱 Currently learning
+</div>
 
-Kubernetes · Terraform · AWS · observability with Prometheus & Grafana
-
-## 📫 Contact
-
-[LinkedIn](https://linkedin.com/in/abdelilah-bch) · [bouchikhiabdelilah0@gmail.com](mailto:bouchikhiabdelilah0@gmail.com)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/route.svg"/><img src="assets/route.svg" alt="04 — the route: ALX 2023, Zone01 Oujda 2024, systems and web 2025, backend and DevOps 2026"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="05 — stack: Java, Rust, Go, C, Spring, Kafka, Angular, Docker, Jenkins, SonarQube, Nexus"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Status — building"/></picture>
