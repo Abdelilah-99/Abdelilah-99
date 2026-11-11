@@ -12,11 +12,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img src="assets/system-map.svg" alt="02 — system map of projects: wisense, market-place, nexus, coffe_house, lets-play, socialnetwork, bomber-man, minishell"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="03 — twelve selected projects"/></picture>
 
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah-99&bg_color=00000000&color=e6edf3&line=e6edf3&point=e6edf3&area_color=e6edf3&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelilah-99&bg_color=00000000&color=111111&line=111111&point=111111&area_color=111111&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
-
-</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/route.svg"/><img src="assets/route.svg" alt="04 — the route: ALX 2023, Zone01 Oujda 2024, systems and web 2025, backend and DevOps 2026"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="05 — stack: Java, Rust, Go, C, Spring, Kafka, Angular, Docker, Jenkins, SonarQube, Nexus"/></picture>
