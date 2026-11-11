@@ -1,6 +1,6 @@
 # Abdelilah Bouchikhi
 
-**Full-Stack Developer · Java / Spring Boot** · Morocco
+**Full-Stack Developer · Java / Spring Boot** · Morocco\
 Open to Java/Spring Boot full-stack roles, in Morocco or remote.
 
 [Portfolio](https://abdelilah.bouchikhi.com) · [LinkedIn](https://linkedin.com/in/abdelilah-bch) · [Email](mailto:bouchikhiabdelilah0@gmail.com)
@@ -14,7 +14,7 @@ with REST APIs.
 
 ## Experience
 
-**Freelance Full-Stack Developer, Platily** · 2025 to present
+**Freelance Full-Stack Developer, Platily** · 2025 to present\
 Content automation for food websites
 - Spring Boot + PostgreSQL backend that automatically generates recipes, articles and visuals for food sites
 - WordPress and Pinterest REST API integration to automate content creation, validation and publishing
@@ -22,7 +22,7 @@ Content automation for food websites
 
 *Stack: Spring Boot, Angular, PostgreSQL, Firebase, Docker*
 
-**Software Developer Intern, HPS (Hightech Payment Systems)**, via 01Talent · Aug to Sep 2026
+**Software Developer Intern, HPS (Hightech Payment Systems)**, via 01Talent · Aug to Sep 2026\
 PowerCARD v4, a payment card platform for banks
 - Java / Spring Boot services in a multi-module Gradle microservices monorepo (issuer module)
 - Built a new service end to end: SQL schema, Liquibase migrations, JPA composite keys, generic CRUD layers and API contracts
@@ -50,12 +50,9 @@ PowerCARD v4, a payment card platform for banks
 ## Other projects
 
 - **[wisense](https://github.com/Abdelilah-99/wisense)** (Rust): WiFi motion-sensing tool between a router and a laptop
-- **NadorBridge IA** *(no public repo)*: AI-powered logistics groupage platform for Moroccan cooperatives (bin-packing algorithms, Kafka, gRPC), hackathon project
-- **resume-chat** *(no public repo)*: self-hosted AI chat over my resume, running a local LLM on my own server
-- **Go** *(no public repos)*: NetCat recreation, lem-in (pathfinding), forum with OAuth
-- **Rust** *(no public repo)*: 0-shell, a minimal shell
-- **C** *(no public repos)*: libft, ATM system
-- **JavaScript**: [Bomberman-style game](https://github.com/Abdelilah-99/Bomber-Man) and [Tetris](https://github.com/Abdelilah-99/make-your-game), plain JS/DOM, no frameworks
+- **[Bomberman](https://github.com/Abdelilah-99/Bomber-Man)** and **[Tetris](https://github.com/Abdelilah-99/make-your-game)** (JavaScript): plain JS/DOM, no frameworks
+- **NadorBridge IA**: AI-powered logistics groupage platform for Moroccan cooperatives (bin-packing algorithms, Kafka, gRPC), hackathon project
+- **resume-chat**: self-hosted AI chat over my resume, running a local LLM on my own server
 
 ## Skills
 
@@ -74,7 +71,3 @@ PowerCARD v4, a payment card platform for banks
 - **Lycée Laymoun, Berkane**: Baccalaureate, Electrical Sciences and Technologies
 
 **Languages:** English (fluent) · French (intermediate)
-
-## Contact
-
-[abdelilah.bouchikhi.com](https://abdelilah.bouchikhi.com) · [LinkedIn](https://linkedin.com/in/abdelilah-bch) · [bouchikhiabdelilah0@gmail.com](mailto:bouchikhiabdelilah0@gmail.com)
