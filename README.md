@@ -34,7 +34,8 @@ PowerCARD v4, a payment card platform for banks
 
 ## Featured projects
 
-**[Marketplace](https://github.com/Abdelilah-99/market-place)**: e-commerce platform in microservices
+**[Marketplace](https://github.com/Abdelilah-99/market-place)**: e-commerce platform in microservices\
+Team project. My part: Spring Boot user, product, and media services with Kafka; security (RSA-signed JWT, RBAC, mTLS); OpenSearch product search; REST Assured and k6 tests; Jenkins CI/CD pipeline on AWS EC2.
 - User, product and media services in Spring Boot connected by Kafka, behind Spring Cloud Gateway (Eureka, Redis rate limiting)
 - RSA-signed JWT, RBAC and mTLS; full-text product search with OpenSearch; API tests with REST Assured and load tests with k6
 - Jenkins CI/CD pipeline with ordered deployment and automatic rollback, deployed on AWS EC2
