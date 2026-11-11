@@ -1,18 +1,80 @@
-<div align="center">
+# Abdelilah Bouchikhi
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Abdelilah Bouchikhi — Backend & DevOps Engineer"/></picture>
+**Full-Stack Developer · Java / Spring Boot** · Morocco
+Open to Java/Spring Boot full-stack roles, in Morocco or remote.
 
-<a href="https://linkedin.com/in/abdelilah-bch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="Linkedin"/></picture></a>
-<a href="mailto:bouchikhiabdelilah0@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
-<a href="https://github.com/Abdelilah-99"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="Github"/></picture></a>
+[Portfolio](https://abdelilah.bouchikhi.com) · [LinkedIn](https://linkedin.com/in/abdelilah-bch) · [Email](mailto:bouchikhiabdelilah0@gmail.com)
 
-</div>
+Full-stack developer with a strong Java / Spring Boot backend. At HPS, I shipped
+production features on PowerCARD, a payment card platform used by banks (Spring Boot,
+JPA/Hibernate, SQL, versioned migrations, OpenSearch). As a freelancer, I built Platily,
+which generates content and auto-publishes it to WordPress and Pinterest through their
+APIs. On the frontend I work with JavaScript/TypeScript, Angular and Next.js integrated
+with REST APIs.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="01 — whoami: software engineering student at Zone01 Oujda, trained at 1337 (42 network) and ALX, building Spring microservices and CI/CD pipelines"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img src="assets/system-map.svg" alt="02 — system map of projects: wisense, market-place, nexus, coffe_house, lets-play, socialnetwork, bomber-man, minishell"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="03 — twelve selected projects"/></picture>
+## Experience
 
+**Freelance Full-Stack Developer, Platily** · 2025 to present
+Content automation for food websites
+- Spring Boot + PostgreSQL backend that automatically generates recipes, articles and visuals for food sites
+- WordPress and Pinterest REST API integration to automate content creation, validation and publishing
+- Firebase authentication with email verification; Angular frontend; Docker deployment
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/route.svg"/><img src="assets/route.svg" alt="04 — the route: ALX 2023, Zone01 Oujda 2024, 1337 (42 network) and web 2025, backend and DevOps 2026"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="05 — stack: Java, Rust, Go, C, Spring, Kafka, Angular, Docker, Jenkins, SonarQube, Nexus"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Status — building"/></picture>
+*Stack: Spring Boot, Angular, PostgreSQL, Firebase, Docker*
+
+**Software Developer Intern, HPS (Hightech Payment Systems)**, via 01Talent · Aug to Sep 2026
+PowerCARD v4, a payment card platform for banks
+- Java / Spring Boot services in a multi-module Gradle microservices monorepo (issuer module)
+- Built a new service end to end: SQL schema, Liquibase migrations, JPA composite keys, generic CRUD layers and API contracts
+- Fixes and features shipped to production on PowerCARD 4.3.0 and 4.2.5
+- Faster batch jobs (authorization archiving, refund suspension) through event-driven OpenSearch ingestion via Fluent Bit
+- Docker images deployed on Kubernetes; diagnostics and performance analysis with Grafana, JProfiler and AWS CloudWatch
+
+*Stack: Java, Spring Boot, JPA/Hibernate, Liquibase, Gradle, OpenSearch, Fluent Bit, Docker, Kubernetes, Grafana, AWS CloudWatch, Git*
+
+## Featured projects
+
+**[Marketplace](https://github.com/Abdelilah-99/market-place)**: e-commerce platform in microservices
+- User, product and media services in Spring Boot connected by Kafka, behind Spring Cloud Gateway (Eureka, Redis rate limiting)
+- RSA-signed JWT, RBAC and mTLS; full-text product search with OpenSearch; API tests with REST Assured and load tests with k6
+- Jenkins CI/CD pipeline with ordered deployment and automatic rollback, deployed on AWS EC2
+
+*Stack: Java, Spring Boot, Kafka, Redis, OpenSearch, MongoDB, Angular, Jenkins, Docker, AWS EC2*
+
+**[01Blog](https://github.com/Abdelilah-99/01Blog)**: full-stack social blogging platform, live at [blog.bouchikhi.com](https://blog.bouchikhi.com)
+- Spring Boot REST API with PostgreSQL and an Angular frontend: posts with images, comments, likes, follows, notifications and reports
+- JWT authentication, role-based access control and moderation tools; containerized with Docker
+
+*Stack: Java, Spring Boot, Angular, PostgreSQL, JWT, Docker*
+
+## Other projects
+
+- **[wisense](https://github.com/Abdelilah-99/wisense)** (Rust): WiFi motion-sensing tool between a router and a laptop
+- **NadorBridge IA** *(no public repo)*: AI-powered logistics groupage platform for Moroccan cooperatives (bin-packing algorithms, Kafka, gRPC), hackathon project
+- **resume-chat** *(no public repo)*: self-hosted AI chat over my resume, running a local LLM on my own server
+- **Go** *(no public repos)*: NetCat recreation, lem-in (pathfinding), forum with OAuth
+- **Rust** *(no public repo)*: 0-shell, a minimal shell
+- **C** *(no public repos)*: libft, ATM system
+- **JavaScript**: [Bomberman-style game](https://github.com/Abdelilah-99/Bomber-Man) and [Tetris](https://github.com/Abdelilah-99/make-your-game), plain JS/DOM, no frameworks
+
+## Skills
+
+- **Backend:** Java, Spring Boot, JPA/Hibernate, REST APIs, Spring Security, Spring Batch, gRPC, microservices
+- **Databases:** SQL, PostgreSQL, MySQL, Liquibase migrations, MongoDB, Redis
+- **Frontend:** JavaScript, TypeScript, HTML/CSS, Angular, Next.js (React), RxJS
+- **Search & messaging:** OpenSearch, Kafka, Fluent Bit
+- **DevOps & tools:** Docker, Kubernetes, AWS (EC2, CloudWatch), Jenkins CI/CD, Git, Gradle, Grafana, JProfiler, Linux
+- **Testing:** REST Assured, k6
+- **Also:** Go, Rust, C
+
+## Education
+
+- **Zone01 Oujda**: full-stack development (front & back), Apr 2024 to present
+- **1337 Rabat (42 Network)**: systems programming, Oct 2024 to Sep 2025
+- **Lycée Laymoun, Berkane**: Baccalaureate, Electrical Sciences and Technologies
+
+**Languages:** English (fluent) · French (intermediate)
+
+## Contact
+
+[abdelilah.bouchikhi.com](https://abdelilah.bouchikhi.com) · [LinkedIn](https://linkedin.com/in/abdelilah-bch) · [bouchikhiabdelilah0@gmail.com](mailto:bouchikhiabdelilah0@gmail.com)
