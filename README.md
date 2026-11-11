@@ -8,11 +8,11 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="01 — whoami: software engineering student at Zone01 Oujda, building Spring microservices and CI/CD pipelines"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="01 — whoami: software engineering student at Zone01 Oujda, trained at 1337 (42 network) and ALX, building Spring microservices and CI/CD pipelines"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/system-map.svg"/><img src="assets/system-map.svg" alt="02 — system map of projects: wisense, market-place, nexus, coffe_house, lets-play, socialnetwork, bomber-man, minishell"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="03 — twelve selected projects"/></picture>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/route.svg"/><img src="assets/route.svg" alt="04 — the route: ALX 2023, Zone01 Oujda 2024, systems and web 2025, backend and DevOps 2026"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/route.svg"/><img src="assets/route.svg" alt="04 — the route: ALX 2023, Zone01 Oujda 2024, 1337 (42 network) and web 2025, backend and DevOps 2026"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="05 — stack: Java, Rust, Go, C, Spring, Kafka, Angular, Docker, Jenkins, SonarQube, Nexus"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Status — building"/></picture>
