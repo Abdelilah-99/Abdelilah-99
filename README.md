@@ -25,7 +25,6 @@ Content automation for food websites
 **Software Developer Intern, HPS (Hightech Payment Systems)**, via 01Talent · Aug to Sep 2026\
 PowerCARD v4, a payment card platform for banks
 - Java / Spring Boot services in a multi-module Gradle microservices monorepo (issuer module)
-- Built a new service end to end: SQL schema, Liquibase migrations, JPA composite keys, generic CRUD layers and API contracts
 - Fixes and features shipped to production on PowerCARD 4.3.0 and 4.2.5
 - Faster batch jobs (authorization archiving, refund suspension) through event-driven OpenSearch ingestion via Fluent Bit
 - Docker images deployed on Kubernetes; diagnostics and performance analysis with Grafana, JProfiler and AWS CloudWatch
